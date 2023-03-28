@@ -1,5 +1,5 @@
 package Basicprograms;
-// Super class
+// Super class of basic programs 
 public class Accmod_In {
 
 	private static int a = 10;
