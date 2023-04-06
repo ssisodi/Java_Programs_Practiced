@@ -25,8 +25,13 @@ public class Constructoroverloading
 	
 	public static void main(String[] args) 
 	{
-	 Constructoroverloading Robin = new Constructoroverloading(3,4);
+	 new Constructoroverloading(3,4);
+	 
+	 new Constructoroverloading(5,6,7);
+	 
+	 new Constructoroverloading(3.50000,6.58948);
+	 
+	 new Constructoroverloading(6,6.977974);
 	 
 	}
-
-	}
+}

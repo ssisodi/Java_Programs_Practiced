@@ -22,7 +22,6 @@ public class ConstructorKumar {
 	}
 	
 	public static void main(String[] args)  
-	
 	{
 		ConstructorKumar cm1 = new ConstructorKumar();
 		cm1.display();
@@ -30,5 +29,4 @@ public class ConstructorKumar {
 		ConstructorKumar cm2 = new ConstructorKumar(100,200);
 		cm2.display();
 	}
-
 }
