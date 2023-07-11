@@ -1,4 +1,5 @@
-package Method;
+package Abstraction.java;
+
 // Concrete class it completes the incomplete abstract method definition
 public class Concrete extends Methodabstract {
 

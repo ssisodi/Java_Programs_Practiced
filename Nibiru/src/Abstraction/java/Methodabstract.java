@@ -1,4 +1,4 @@
-package Method;
+package Abstraction.java;
 //Super Class
 public abstract class Methodabstract {
 	// User Dashboard
