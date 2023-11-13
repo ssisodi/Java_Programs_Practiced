@@ -8,11 +8,12 @@ public class Globalocal {
 	{
 		int n = 39; // Local variable 
 		int a = 43; // Local variable 
+		System.out.println(a);
 	}
 	
 	Globalocal() 
 	{
-	//	System.out.println(n);
+		System.out.println(a);
 		/*The local variable 'n' is not being 
 		 * accessible in the constructor 
 		 * as it is only accessible to grass() */
